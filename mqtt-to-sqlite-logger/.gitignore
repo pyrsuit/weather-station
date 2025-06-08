@@ -28,4 +28,4 @@ Desktop.ini
 # Byebug / other debugger temp files
 .byebug_history
 
-.DS_Store
+weather_station.db
